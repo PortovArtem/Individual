@@ -10,3 +10,5 @@ random_numbers = generate_random_list(count)
 print("Generated numbers:")
 print(random_numbers)
 
+print("Generated numbers again:")
+print(generate_random_list(20))
